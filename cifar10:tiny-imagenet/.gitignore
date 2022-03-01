@@ -1,0 +1,14 @@
+.DS_Store
+.pyc
+.vscode
+logs
+.json
+.history
+.vscode
+checkpoint
+gan_trainer.py
+__pycache__
+baseline.py
+
+
+
